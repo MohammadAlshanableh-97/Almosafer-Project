@@ -246,6 +246,8 @@ public class MyTestCases extends Parameter {
 			int LastItemInt = Integer.parseInt(PriceinTheWebSiteforTheLastElement);
 			assertEquals(FirstItemInt < LastItemInt, true);
 			
+			System.out.println("Mohamad");
+			
 	//	}
 			
 
